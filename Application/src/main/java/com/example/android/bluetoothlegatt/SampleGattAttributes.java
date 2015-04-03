@@ -30,6 +30,7 @@ public class SampleGattAttributes {
         // Sample Services.
         attributes.put("0000180d-0000-1000-8000-00805f9b34fb", "Heart Rate Service");
         attributes.put("0000180a-0000-1000-8000-00805f9b34fb", "厂商设备信息");
+
         //I add some code here for debugging purpose.
         attributes.put("00001800-0000-1000-8000-00805f9b34fb","【服务】1");  //代码使用UTF-8编码，在手机就不会出现乱码
         attributes.put("00001801-0000-1000-8000-00805f9b34fb","【服务】2");
